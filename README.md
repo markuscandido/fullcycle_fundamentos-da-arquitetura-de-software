@@ -1,5 +1,7 @@
 # Fundamentos da arquitetura de software
 
+Síntese do curso **Fundamentos da arquitetura de software**, parte integrante do [FullCycle 3.0](https://curso.fullcycle.com.br/curso-fullcycle/) by [Full Cycle](https://fullcycle.com.br/)
+
 ## Fundamentos
 
 Compreender os diferentes tipos de arquitetura em Tecnologia da Informação é fundamental para expandir o conhecimento sobre como construir softwares de maneira eficaz. Existem vários tipos de arquiteturas, mas quatro são especialmente relevantes: **Arquitetura de Software**, **Arquitetura de Solução**, **Arquitetura Tecnológica** e **Arquitetura Corporativa**.
